@@ -1,0 +1,14 @@
+{
+  "botSettings": {
+    "id": "hosted",
+    "prefix": ".",
+    "antideleteMode": "all",
+    "autostatusView": true,
+    "isPublic": true,
+    "antieditMode": "all",
+    "antideletestatusEnabled": false
+  },
+  "groups": {},
+  "economy": {},
+  "users": {}
+}
